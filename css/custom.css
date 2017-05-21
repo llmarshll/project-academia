@@ -1,0 +1,19 @@
+.header .site-slogan{
+	float:left;
+}
+.translucent-bg{
+	padding:15px 10px 10px 10px;
+	color:white;
+}
+body .title {
+		font-family:"tahoma";
+		padding-top:20px;
+		color:royalblue;
+}
+body .roww{
+	padding:20px 20px 20px 20px;
+	height:500px;
+}
+.modal-content {
+	text-align:justify;
+}
